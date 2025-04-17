@@ -11,3 +11,5 @@ if __name__ == "__main__":
     english_text = input("Enter English text: ")
     hindi_translation = english_to_hindi(english_text)
     print(f"Hindi translation: {hindi_translation}")
+
+##Second Change
