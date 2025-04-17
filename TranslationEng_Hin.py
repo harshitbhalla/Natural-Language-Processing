@@ -1,4 +1,4 @@
-# Install files
+# Install Packages
 # pip install transformers
 # pip install torch
 # pip install sentencepiece
